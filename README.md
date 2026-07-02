@@ -13,6 +13,18 @@ A comprehensive full-stack platform designed to manage sports events, handle tea
 - **Interactive Maps**: View event locations precisely using integrated interactive maps (Leaflet).
 - **Role-Based Access Control**: Secure endpoints differentiating regular participants from event organizers.
 
+## Screenshots
+
+### Dashboard & Event Management
+![Dashboard](assets/dashboard.png)
+
+### Interactive Maps (Leaflet)
+![Map View](assets/map.png)
+
+### Results
+![Results View](assets/results.png)
+
+
 ## Tech Stack
 
 ### Backend
